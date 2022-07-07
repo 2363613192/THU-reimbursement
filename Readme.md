@@ -66,11 +66,11 @@
 	<img src="./pictures/粘贴方法.png" alt="粘贴方法" style="zoom:55%;" />
 	<img src="./pictures/粘贴示例.png" alt="粘贴示例" style="zoom:55%;" />
 * 注意事项
-	<img src="./pictures/注意事项.png" alt="注意事项" style="zoom:55%;" />
+	<img src="./pictures/注意事项.png" alt="注意事项" style="zoom:55%;" />  
 	* 火车票即是报销凭证
-	<img src="./pictures/火车票.png" alt="火车票" style="zoom:55%;" />
+	<img src="./pictures/火车票.png" alt="火车票" style="zoom:55%;" />  
 	* 飞机票亦是报销凭证
-	<img src="./pictures/飞机票.png" alt="飞机票" style="zoom:55%;" />
+	<img src="./pictures/飞机票.png" alt="飞机票" style="zoom:55%;" />  
 	
 ## 开支明细
 
